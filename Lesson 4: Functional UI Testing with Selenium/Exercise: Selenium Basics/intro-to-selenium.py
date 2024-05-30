@@ -1,3 +1,4 @@
+# #!/usr/bin/env python
 
 # Basic usage of Selenium from Selenium website: (https://github.com/SeleniumHQ/seleniumhq.github.io/blob/trunk/examples/python/tests/getting_started/first_script.py#L12-L13)
 
